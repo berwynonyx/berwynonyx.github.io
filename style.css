@@ -1,12 +1,18 @@
+title{
+	font-size: 2.5em;
+	}
 body{
-	font-family: "Marker Felt","Comic Sans MS", fantasy;
-	color:#003366;
-       }
+	font-family: "Papyrus";
+	color:#660033;
+	background-color: green;
+       	}
+
+
 
 h1 {
-	font-size: 1.3em;
+	font-size: 1.5em;
 	text-align:center;
-     }
+     	}
 
 table {
 	margin-left:auto;
@@ -14,16 +20,16 @@ table {
 	text-align:left;
 	border-collapse: collapse;
 	cellspacing: 0 px;
-         }
+        }
 
 td {
 	border: 1px solid #ffffff;
 	text-align:center;
-	background-color:#9FB6CD; 
-    }
+	background-color:#B6CD9F; 
+    	}
 
 th {
 	text-align:center;
 	color:#ffffff;
-	background-color:#003366;
-   }
+	background-color:#B6CD9F;
+   	}
